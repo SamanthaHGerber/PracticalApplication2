@@ -1,2 +1,2 @@
-Here is the link to my GitHub: https://github.com/SamanthaHGerber/SamanthaHGerber/blob/main/prompt_II%20-%20practical%20application%20module%2011.ipynb
+Here is the [link](https://github.com/SamanthaHGerber/PracticalApplicationAssignment5.1/blob/main/module%2011%20-%20practical%20application%202.ipynb) to my GitHub
 In this practical assignment, I analyzed used car listing price data to determine what drives the price of used cars. Price was the target variable and the other numerical and categorical features led to the changes in price. I determined that cylinders, year, and odometer have the greatest impact on price of a used car. 
